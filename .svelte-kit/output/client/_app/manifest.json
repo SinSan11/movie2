@@ -1,0 +1,73 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-c8310097.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-5033be85.js",
+      "_singletons-d1fb5791.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/runtime/components/layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index copy.svelte",
+      "src/routes/index.svelte"
+    ]
+  },
+  ".svelte-kit/runtime/components/layout.svelte": {
+    "file": "layout.svelte-8912c1d4.js",
+    "src": ".svelte-kit/runtime/components/layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5033be85.js"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-3670ed5d.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5033be85.js"
+    ]
+  },
+  "src/routes/index copy.svelte": {
+    "file": "pages/index copy.svelte-8dfd5038.js",
+    "src": "src/routes/index copy.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5033be85.js",
+      "_SearchMovies-7ec73597.js",
+      "_singletons-d1fb5791.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-b101fb46.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-5033be85.js",
+      "_SearchMovies-7ec73597.js",
+      "_singletons-d1fb5791.js"
+    ]
+  },
+  "_index-5033be85.js": {
+    "file": "chunks/index-5033be85.js"
+  },
+  "_singletons-d1fb5791.js": {
+    "file": "chunks/singletons-d1fb5791.js"
+  },
+  "_SearchMovies-7ec73597.js": {
+    "file": "chunks/SearchMovies-7ec73597.js",
+    "imports": [
+      "_index-5033be85.js",
+      "_singletons-d1fb5791.js"
+    ],
+    "css": [
+      "assets/SearchMovies-59733567.css"
+    ]
+  }
+}
