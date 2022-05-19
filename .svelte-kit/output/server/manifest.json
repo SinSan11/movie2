@@ -26,35 +26,19 @@
       "_index-6b489d84.js"
     ]
   },
-  "src/routes/index copy.svelte": {
-    "file": "entries/pages/index copy.svelte.js",
-    "src": "src/routes/index copy.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-6b489d84.js",
-      "_SearchMovies-9f65d867.js"
-    ]
-  },
   "src/routes/index.svelte": {
     "file": "entries/pages/index.svelte.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "imports": [
-      "_index-6b489d84.js",
-      "_SearchMovies-9f65d867.js"
+      "_index-6b489d84.js"
+    ],
+    "css": [
+      "assets/entries/pages/index.svelte-4b2556dc.css"
     ]
   },
   "_index-6b489d84.js": {
     "file": "chunks/index-6b489d84.js"
-  },
-  "_SearchMovies-9f65d867.js": {
-    "file": "chunks/SearchMovies-9f65d867.js",
-    "imports": [
-      "_index-6b489d84.js"
-    ],
-    "css": [
-      "assets/SearchMovies-c5704e05.css"
-    ]
   },
   ".svelte-kit/build/hooks.js": {
     "file": "chunks/hooks-1c45ba0b.js",

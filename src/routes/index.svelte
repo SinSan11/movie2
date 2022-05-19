@@ -1,7 +1,7 @@
 <script context="module">
     export async function load({fetch}){
         const res = await fetch(
-            ``
+            `https://api.themoviedb.org/3/movie/popular?api_key=69d9d05794b643b24d94cae8a255cd07&language=en-US&page=1`
             // din api key inn her Sindre
         );
         const data = await res.json();
